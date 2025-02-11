@@ -1,4 +1,4 @@
---- TRAINING CODE
+TRAINING CODE
 
 A little bit about why this code:
 I'm studying Rust, and I like to get my hands dirty. I learn fast by doing it instead of just reading.
